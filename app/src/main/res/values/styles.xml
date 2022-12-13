@@ -1,0 +1,12 @@
+    <resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="seek" parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#fff</item>
+
+    </style>
+
+    </resources>
